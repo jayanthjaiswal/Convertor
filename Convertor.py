@@ -71,5 +71,6 @@ if __name__ == '__main__':
         sys.exit(1)
 
 '''
-englundoffice-2:Converter cdlilab$ python Convertor.py input.txt 
+Usage
+$ python Convertor.py input.txt 
 '''
